@@ -1,4 +1,4 @@
-velocityOS
+*velocityOS*
 
 README.md & projectinfo.md file
 ----------------------------------------------
